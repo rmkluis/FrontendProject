@@ -75,7 +75,7 @@ text.classList.add('text');
 
 
 
-  //////////////////// anime
+  //////////////////// anime//
   anime({
     targets: '#animex',
     // translateX: 500,
