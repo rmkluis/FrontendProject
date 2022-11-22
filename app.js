@@ -1,16 +1,10 @@
 let body = document.querySelector('body');
-// let button = document.createElement('button');
-// body.append(button)
-// $("button").text('spin');
 let gifhouse = document.createElement('div');
 gifhouse.classList.add('gifhouse');
 let gif = document.createElement('img');
 let text = document.createElement('div');
 body.prepend(gifhouse);
 text.classList.add('text');
-// let animex = document.createElement('div');
-// animex.classList.add('animex');
-// body.append(animex)
 
 $("#animex").click(function(){
     let gif = document.createElement('img');
